@@ -1,0 +1,16 @@
+{
+  "name": "Norte — Sua rota para empreender",
+  "short_name": "Norte",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#091015",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
