@@ -1,0 +1,17 @@
+{
+  "name": "Norte — Sua rota para o Simples Nacional",
+  "short_name": "Norte",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071014",
+  "theme_color": "#00B3A4",
+  "icons": [
+    {
+      "src": "norte-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "Guia de jornada para abertura e entrada no Simples Nacional."
+}
